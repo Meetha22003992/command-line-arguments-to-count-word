@@ -2,21 +2,14 @@
 ## AIM:
 To write a python program for getting the word count from the contents of a file using command line arguments.
 ## EQUIPEMENT'S REQUIRED: 
-PC
-Anaconda - Python 3.7
+PC, Anaconda - Python 3.7
 ## ALGORITHM: 
-### Step 1: Import sys module to use command line arguments
-
-### Step 2: Use the open() by getting the file name with sys.argv[1] which means the first index of the given argument
- 
-### Step 3: Iterate the content of the file using for loop
-
-### Step 4:  Split the contents into each line using split() function
-
-### Step 5: Iterate the list of the line and increment the value of variable each time
-
-### Step 6: Run the program by giving the file name on thr terminal
-
+1.Import sys module to use command line arguments
+2. Use the open() by getting the file name with sys.argv[1] which means the first index of the given argument 
+3. Iterate the content of the file using for loop
+4. Split the contents into each line using split() function
+5. Iterate the list of the line and increment the value of variable each time
+6. Run the program by giving the file name on thr terminal
 ## PROGRAM:
 ```
 #Developed by: Meetha Prabhu
