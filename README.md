@@ -10,6 +10,7 @@ PC, Anaconda - Python 3.7
 4. Split the contents into each line using split() function
 5. Iterate the list of the line and increment the value of variable each time
 6. Run the program by giving the file name on thr terminal
+
 ## PROGRAM:
 ```
 #Developed by: Meetha Prabhu
