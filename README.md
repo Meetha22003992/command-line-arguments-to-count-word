@@ -8,7 +8,7 @@ PC, Anaconda - Python 3.7
 
 2. Use the open() by getting the file name with sys.argv[1] which means the first index of the given argument 
 
-3. 3. Iterate the content of the file using for loop
+3. Iterate the content of the file using for loop
 
 4. Split the contents into each line using split() function
 
