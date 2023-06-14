@@ -6,15 +6,15 @@ PC, Anaconda - Python 3.7
 ## ALGORITHM: 
 1.Import sys module to use command line arguments
 
-2. Use the open() by getting the file name with sys.argv[1] which means the first index of the given argument 
+2.Use the open() by getting the file name with sys.argv[1] which means the first index of the given argument 
 
-3. Iterate the content of the file using for loop
+3.Iterate the content of the file using for loop
 
-4. Split the contents into each line using split() function
+4.Split the contents into each line using split() function
 
-5. Iterate the list of the line and increment the value of variable each time
+5.Iterate the list of the line and increment the value of variable each time
 
-6. Run the program by giving the file name on thr terminal
+6.Run the program by giving the file name on thr terminal
 
 ## PROGRAM:
 ```
